@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# 
+# Start of session at: Tue Dec 22 22:32:12 2020
+# Process ID: 7948
+# Current directory: G:/myLab/SDK/NEON/webtalk
+# Command line: wbtcv.exe -mode batch -source sdk_webtalk.tcl
+# Log file: G:/myLab/SDK/NEON/webtalk/webtalk.log
+# Journal file: G:/myLab/SDK/NEON/webtalk\webtalk.jou
+#-----------------------------------------------------------
+source sdk_webtalk.tcl
